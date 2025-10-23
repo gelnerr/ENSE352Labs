@@ -1,4 +1,4 @@
 # ENSE352** Labs
-Labs from ENSE354, for my reference :)
+Labs from ENSE352, for my reference :)
 
 ## get me out :joy:
