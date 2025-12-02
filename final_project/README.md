@@ -36,3 +36,7 @@ The game has  different states based on where you are in the game at that point 
 * **Feedback State** - This comes right after guess state, and will give you a feedback through leds based on *how* right or wrong your code is.
 * **Win State** - If real_guess is equal to hc_guess (hardcoded, can implement random), you win the game, and all the leds should blink followed by a representation in hex of how many tries it took to get the guess right.
 * **Lose State** - This state is entered when all guesses are exhausted and the code hasn't been guessed correctly. The lights blink in a pattern followed by a reveal of the answer.
+
+
+### Schematic
+<img src = "https://github.com/gelnerr/ENSE352Labs/blob/c28b1ca438b9edcb958044380c55ee465c294fbf/final_project/schematic.jpg">
